@@ -9,7 +9,7 @@ h1 {
 	color: white;
 }
 
-.nav p {
+.nav a {
 	font-size: 18px;
 	color: white;
 }
@@ -31,4 +31,16 @@ h3 {
 p {
 	font-size: 14px;
 
+}
+
+h2.headimage {
+	font-size: 23px;
+	font-weight: bold;
+	color: white;
+}
+footer, footer a {
+	font-size: 11px;
+	color: white;
+	background-color: dimgray;
+	text-align: left;
 }
